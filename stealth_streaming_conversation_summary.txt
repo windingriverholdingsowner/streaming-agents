@@ -1,0 +1,118 @@
+STEALTH STREAMING SETUP - CONVERSATION SUMMARY
+For thePUNShopTeesNGifts
+==============================================
+
+DATE: November 22, 2025
+
+OVERVIEW:
+---------
+Discussion about setting up "stealth streaming" - passive ambient live streams to showcase products from thePUNShopTeesNGifts (Etsy shop run by Craig and Jeanette featuring pun-themed apparel, gifts, and home decor).
+
+WHAT IS STEALTH STREAMING:
+---------------------------
+Stealth streaming = Broadcasting ambient, passive content (cozy rooms, burning candles, relaxing scenes) to multiple platforms simultaneously (YouTube, TikTok, Instagram) where products are displayed as part of the scene. The stream runs passively without requiring active hosting.
+
+Benefits:
+- Build watch time and followers passively
+- Create relaxing content for viewers
+- Showcase products in natural, cozy settings
+- Monetize through ads/gifts with minimal effort
+- Multi-platform reach
+
+EQUIPMENT NEEDED:
+-----------------
+- Camera/Phone with good view of products
+- Stable mount/tripod
+- Good lighting to showcase product designs and colors
+- Computer or phone capable of running streaming software
+- Reliable internet connection
+
+STREAMING SOFTWARE OPTIONS:
+---------------------------
+Multi-Platform:
+- Restream.io (free tier available)
+- StreamYard (browser-based, user-friendly)
+- OBS Studio (free, powerful, more complex)
+
+Mobile Apps:
+- Prism Live Studio
+- Streamlabs Mobile
+
+SETUP APPROACH:
+---------------
+1. Use AI to generate cozy room backgrounds
+2. Composite thePUNShopTeesNGifts products into the scenes
+3. Create slideshow or video loop
+4. Stream to multiple platforms simultaneously
+
+AI TOOLS RECOMMENDED:
+---------------------
+Image Generation:
+- Midjourney (excellent for photorealistic interiors)
+- DALL-E 3 (accessible via ChatGPT Plus)
+- Leonardo.ai (free tier available)
+- Stable Diffusion (free but requires setup)
+
+Video/Animation:
+- Runway ML (create ambient video from images)
+- Pika Labs (turn AI images into moving scenes)
+- Kaiber (creates looping ambient videos)
+
+Photo Editing/Compositing:
+- Photoshop (or free alternatives: GIMP, Photopea)
+- Canva Pro (background remover + layering)
+- Runway's inpainting (AI-powered blending)
+
+WORKFLOW:
+---------
+1. Generate cozy background scene using AI prompts
+2. Composite products into scene using photo editing software
+3. Create 5-10 variations for rotation
+4. Set up slideshow or looping video
+5. Stream using multi-platform streaming software
+
+STREAM TITLE IDEAS:
+-------------------
+- "🔥 Cozy Pun Shop - Live Product Showcase"
+- "☕ Chill Vibes + Punny Gifts"
+- "🛋️ Cozy Corner - Unique Gifts & More"
+
+PRODUCT DISPLAY IDEAS:
+----------------------
+Cozy Display Setup:
+- Arrange blankets/hoodies aesthetically
+- Add warm lighting (candles, fairy lights)
+- Create "cozy corner" vibe matching brand
+
+Rotating Product Display:
+- Feature different items throughout the day
+- Fold/arrange products attractively
+- Include visible price tags or product names
+
+Ambient + Product Focus:
+- Stream cozy room scene with products displayed
+- Background could include soft music or rain sounds
+- Products positioned as part of the ambiance
+
+NEXT STEPS:
+-----------
+1. Use provided AI prompts to generate cozy room backgrounds
+2. Take high-quality photos of products
+3. Composite products into generated backgrounds
+4. Set up streaming software (recommend starting with Restream.io)
+5. Test stream before going live across all platforms
+6. Monitor engagement and adjust scenes/products accordingly
+
+FILES CREATED:
+--------------
+- cozy_room_prompts.txt (20 detailed AI prompts for various cozy scenes)
+- This conversation summary
+
+ADDITIONAL NOTES:
+-----------------
+- 20 detailed prompts provided covering: living rooms, bedrooms, coffee corners, seasonal scenes, and unique atmospheric spaces
+- Prompts include specific lighting, texture, and atmosphere keywords for best AI results
+- Tips included for product placement and animation/movement suggestions
+- Prompts optimized for photorealistic, high-quality outputs suitable for streaming
+
+==============================================
