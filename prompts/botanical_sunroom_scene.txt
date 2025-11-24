@@ -1,1 +1,4 @@
 A bright and airy sunroom filled with various plants and flowers. A comfortable armchair with a plush blanket is placed in a corner, creating a cozy reading nook. The room has large windows that let in a lot of natural light. The overall aesthetic is bohemian and cottagecore. photorealistic, 4k, cinematic lighting.
+
+**Negative Prompt:**
+ugly, blurry, low quality, jpeg artifacts, compression, noise, watermark, signature, text, username, cartoon, 3d, cgi, render, illustration, painting, drawing

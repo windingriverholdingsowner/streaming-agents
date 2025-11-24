@@ -1,1 +1,4 @@
 A cozy living room scene with a beautifully decorated Christmas tree, its lights twinkling. A fireplace is crackling, and a comfortable armchair with a plush blanket is placed nearby. The room is filled with warm, ambient light, and outside the window, snow is gently falling. The overall mood is peaceful and festive. photorealistic, 4k, cinematic lighting.
+
+**Negative Prompt:**
+ugly, blurry, low quality, jpeg artifacts, compression, noise, watermark, signature, text, username, cartoon, 3d, cgi, render, illustration, painting, drawing

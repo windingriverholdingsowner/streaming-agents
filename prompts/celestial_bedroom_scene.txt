@@ -1,1 +1,4 @@
 A dreamy bedroom with a large window showing a starry night sky with a full moon. The room is decorated with celestial-themed decor, and a telescope is placed near the window. The bed has a dark blue blanket that looks like the night sky. The lighting is soft and magical. photorealistic, 4k, cinematic lighting.
+
+**Negative Prompt:**
+ugly, blurry, low quality, jpeg artifacts, compression, noise, watermark, signature, text, username, cartoon, 3d, cgi, render, illustration, painting, drawing

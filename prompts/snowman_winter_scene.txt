@@ -1,1 +1,4 @@
 A cozy living room on a winter day. A large window shows a snowy landscape with a snowman in the yard. A fireplace is crackling, and a comfortable sofa has a plush blanket on it. The room is filled with warm, cozy light. photorealistic, 4k, cinematic lighting.
+
+**Negative Prompt:**
+ugly, blurry, low quality, jpeg artifacts, compression, noise, watermark, signature, text, username, cartoon, 3d, cgi, render, illustration, painting, drawing

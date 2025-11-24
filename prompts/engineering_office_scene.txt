@@ -1,1 +1,4 @@
 A modern and minimalist home office with a large wooden desk, a comfortable ergonomic chair, and a large window with a view of a city skyline. The room is well-lit with natural light. On the wall, there are some framed patents or engineering-related art. The overall aesthetic is clean, organized, and professional. photorealistic, 4k, cinematic lighting.
+
+**Negative Prompt:**
+ugly, blurry, low quality, jpeg artifacts, compression, noise, watermark, signature, text, username, cartoon, 3d, cgi, render, illustration, painting, drawing
